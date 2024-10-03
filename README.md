@@ -62,7 +62,7 @@ pytest -v
 
  ```
 adb shell
-dumpsys window windows | grep -E 'mTopActivityComponent
+dumpsys window windows | grep -E 'mTopActivityComponent'
   ``` 
 
  
